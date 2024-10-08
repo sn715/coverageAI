@@ -1,0 +1,13 @@
+embeddings:
+  model: "sentence-transformers/all-MiniLM-L6-v2"
+
+vectorstore:
+  type: "faiss"
+  index_path: "data/faiss_index"
+
+retriever:
+  top_k: 5
+
+generator:
+  model: "gpt-3.5-turbo"
+  max_tokens: 150

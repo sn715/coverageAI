@@ -1,0 +1,8 @@
+transformers
+torch
+faiss-cpu
+langchain
+openai
+pyyaml
+pandas
+numpy
