@@ -1,6 +1,6 @@
 # CoverageAI
 
-A custom Retrieval Augmented Generation (RAG) system for [specific purpose].
+A custom Retrieval Augmented Generation (RAG) system for Marginal Mediaworks.
 
 ## Setup
 
@@ -11,8 +11,9 @@ A custom Retrieval Augmented Generation (RAG) system for [specific purpose].
 
 ## Usage
 
-[Provide examples of how to use CoverageAI]
+Used to automate film script coverage.
 
-## Contributing
+## Contributors
 
-[Guidelines for contributing to the project]
+@Sinchana Nama
+@Christine Lai
